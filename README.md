@@ -6,3 +6,8 @@ Most of the times people who is getting started with the new technolgies will fi
 # How to Contribute?
 
 You can contribute to this repo either adding Project Ideas or by implementing solutions.
+
+Ever felt, It would have been great if this kind of application is there? Then add that project idea here.
+
+Are you a budding developer who wants to showcase your skills to the community/perspective employers? Chose any of the below project ideas and start implementing solutions. If you need any help during the course of the implementation you can contact @vjnan369 or @nshiva
+
